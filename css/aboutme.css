@@ -1,0 +1,90 @@
+
+.background-image{
+  background-image:url("/Users/chadwickspencer/projects/aboutme/Images/IMG_0009_BW.JPG");
+  background-attachment: fixed;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position:center center;
+}
+
+/*#content{
+
+  background-color:rgba(215, 212, 212, .5);
+  margin:10% auto;
+  width:40%;
+  float: right;
+  padding:25px
+  }*/
+/*#content::after {
+  clear: both;
+}*/
+
+.col-md-offset-8{
+  background-color:rgba(215, 212, 212, .5);
+}
+.btn-round{
+  background-color: orange;
+  height: 60px;
+  width:  60px;
+  border-radius: 60px;
+  font-size: 35px;
+  padding-bottom: 15px;
+  padding-left: 5px;
+  margin-left: 15px;
+}
+.btn-round1{
+  background-color: black;
+  height: 60px;
+  width:  60px;
+  border-radius: 60px;
+  font-size: 35px;
+  padding-bottom: 10px;
+  padding-left: 7px;
+  margin-left: 20px;
+}
+
+/*.bio{font-family:helvetica, arial, sans-serif;
+
+}*/
+
+/*.social li{
+  float:left;
+  overflow:hidden;
+  list-style: none;
+  padding-top:100px;
+  margin-left:15px;*/
+}
+
+
+
+.btn{
+  width:50px;
+  height:50px;
+  radius:50px;
+  padding:30px;
+}
+
+/*.btn:hover{
+  background-color: #20588e;
+}*/
+  /*.social li{
+    width:50px;
+    height:50px;
+    display:block;
+    border-radius: 50%;
+    background: #4679BD;
+    float:left;
+  }*/
+
+ /*.social li:hover{
+   background: #20588e;
+   width:50px;
+   height:50px;*/
+   /*width:100%;
+   height:100%:*/
+   /*border-radius:100%*/
+ /*}
+ .btn.email{
+   position: relative;
+   width
+ }*/
